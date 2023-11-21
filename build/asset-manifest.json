@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8eb20739.css",
+    "main.js": "/static/js/main.cc3ce945.js",
+    "static/media/PVC_Compound_3.jpeg": "/static/media/PVC_Compound_3.c7b9ab5b159e3893711e.jpeg",
+    "static/media/two_hands_holding_shredded_plastic_pieces.png": "/static/media/two_hands_holding_shredded_plastic_pieces.985780a8acb7e647afb0.png",
+    "static/media/anhnganh2.jpeg": "/static/media/anhnganh2.0abf39f82ebc06b4efed.jpeg",
+    "static/media/bot-mau.jpeg": "/static/media/bot-mau.db5d01edeb4871631cf9.jpeg",
+    "static/media/Bot_mau_vo_co_sunmaxx.jpeg": "/static/media/Bot_mau_vo_co_sunmaxx.56b3b10f29db3f2a57d8.jpeg",
+    "static/media/anhnganh.jpeg": "/static/media/anhnganh.f96286d3fb6aa626418f.jpeg",
+    "index.html": "/index.html",
+    "main.8eb20739.css.map": "/static/css/main.8eb20739.css.map",
+    "main.cc3ce945.js.map": "/static/js/main.cc3ce945.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eb20739.css",
+    "static/js/main.cc3ce945.js"
+  ]
+}
