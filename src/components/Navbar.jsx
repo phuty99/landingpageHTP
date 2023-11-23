@@ -33,15 +33,15 @@ const ListMenu = styled(List)(({ theme }) => ({
 const itemList = [
     {
       text: "Giới thiệu",
-      to: "/" 
+      to: "/gioi_thieu" 
     },
     {
       text: "Sản Phẩm",
-      to: "/about"
+      to: "/san_pham"
     },
     {
         text: "Liên Hệ",
-        to: "/contact"
+        to: "/lien_he"
     }
 ];
 

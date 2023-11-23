@@ -10,10 +10,8 @@ const Header = () => {
         minHeight: '80vh',
         display: 'flex',
         justifyContent: 'center',
-        // tamanhos
         gap: theme.spacing(2),
         paddingTop: theme.spacing(10),
-        // cor de fundo
         backgroundColor: '#0098ff',
         [theme.breakpoints.down('md')]: {
             flexDirection: 'column',

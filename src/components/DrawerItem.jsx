@@ -35,17 +35,17 @@ const itemList = [
   {
     text: "Giới thiệu",
     icon: <HomeIcon />,
-    to: "/"
+    to: "/gioi_thieu"
   },
   {
     text: "Sản Phẩm",
     icon: <InfoIcon />,
-    to: "/about"
+    to: "/san_pham"
   },
   {
     text: "Liên Hệ",
     icon: <EmailIcon />,
-    to: "/contact"
+    to: "/lien_he"
   }
 ];
 
